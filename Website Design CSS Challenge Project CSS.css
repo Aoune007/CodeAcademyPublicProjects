@@ -1,0 +1,125 @@
+.headline {
+    font-weight: bold;
+    font-size: 26px;
+    font-family: Raleway, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.text-style-h1 {
+    font-weight: bold;
+    font-size: 26px;
+    font-family: Raleway, 'Times New Roman', serif;
+    padding: 10px 10px; 
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: Roboto, 'Times New Roman', serif;
+    padding: 10px 10px;
+}
+
+.heading-center {
+    text-align: center;
+}
+
+.last-section {
+    font-size: 400;
+    font-size: 14px;
+    font-family: 'Source Code Pro', 'Times New Roman', serif;
+    padding: 10px 10px;
+}
+
+.headline-para {
+    font-size: 400;
+    font-size: 14px;
+    font-family: 'Source Code Pro', 'Times New Roman', serif;
+    text-align: center;
+}
+
+.colours-section {
+    border: 2px solid gray;
+    margin: 10px 10px;
+    width: 70%;
+    text-align: center;
+    margin-left: 15%;
+}
+
+.fonts-section {
+    border: 2px solid gray;
+    margin: 10px 10px;
+    width: 70%;
+    margin-left: 15%;
+}
+
+.text-style-section {
+    border: 2px solid gray;
+    margin: 10px 10px;
+    width: 70%;
+    margin-left: 15%;
+}
+
+.emerald-panel {
+    background-color: #34D875;
+    display: inline-block;
+    width: 25%;
+    margin: 10px 10px;
+    padding: 10px 10px;
+    text-align: center;
+    font-family: 'Source Code Pro', 'Times New Roman', serif;
+}
+
+.flame-red-panel {
+    background-color: #90181B;
+    display: inline-block;
+    width: 25%;
+    margin: 10px 10px;
+    padding: 10px 10px;
+    text-align: center;
+    font-family: 'Source Code Pro', 'Times New Roman', serif;
+}
+
+.mischka-panel {
+    background-color: #A2A3A6;
+    display: inline-block;
+    width: 25%;
+    margin: 10px 10px;
+    padding: 10px 10px;
+    text-align: center;
+    font-family: 'Source Code Pro', 'Times New Roman', serif;
+}
+
+.underline-heading {
+    text-decoration: underline;
+}
+
+.raleway-font {
+    font-family: Raleway, 'Times New Roman', serif;
+    width: 100%;
+    padding: 10px 15px;
+    display: inline-block;
+}
+
+.roboto-font {
+    font-family: Roboto, 'Times New Roman', serif;
+    width: 100%;
+    padding: 10px 430px;
+    display: inline-block;
+}
+
+.source-code-pro {
+    font-family: 'Source Code Pro', 'Times New Roman', serif;
+    width: 50%;
+    padding: 10px 800px;
+    display: inline-block;
+}
+
+li {
+    font-family: 'Source Code Pro', 'Times New Roman', serif;
+}
+
+footer {
+    text-align: center;
+    font-family: Raleway;
+    font-size: medium;
+}
