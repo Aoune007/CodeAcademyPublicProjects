@@ -37,7 +37,7 @@ header h1 {
 
 .mission {
     display: flex;
-    background-image: url(file:///C:/Users/aoune/Documents/Visual%20Code%20Files/CSS-%20Tea%20Cozy%20Project/Files%20needed/img-mission-background.webp);
+    background-image: url(file:///----------------Visual%20Code%20Files/CSS-%20Tea%20Cozy%20Project/Files%20needed/img-mission-background.webp);
     height: 700px;
     width: 1200px;
     flex-flow: column wrap;
@@ -80,7 +80,7 @@ justify-content: space-evenly;
 
 .locations {
     display: flex;
-    background-image: url(file:///C:/Users/aoune/Documents/Visual%20Code%20Files/CSS-%20Tea%20Cozy%20Project/Files%20needed/img-locations-background.webp);
+    background-image: url(file:///--------------------/Visual%20Code%20Files/CSS-%20Tea%20Cozy%20Project/Files%20needed/img-locations-background.webp);
     height: 700px;
     width: 1200px;
     flex-flow: row-reverse wrap;
